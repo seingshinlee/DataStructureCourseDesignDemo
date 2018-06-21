@@ -1,3 +1,13 @@
+<p align="center">
+    <a href="https://github.com/seingshinlee/data-structure-course-design/raw/beta/docs/3_28_%E6%9D%8E%E8%83%9C%E6%AC%A3_%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%9A%E5%AE%A4%E5%86%85%E5%B8%83%E7%BA%BF.pdf">
+        <img src="./assets/downloads/pdf.svg" height="60">
+    </a>
+    +
+    <a href="https://github.com/seingshinlee/data-structure-course-design/raw/beta/docs/3_28_%E6%9D%8E%E8%83%9C%E6%AC%A3_%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%9A%E5%AE%A4%E5%86%85%E5%B8%83%E7%BA%BF.docx">
+        <img src="./assets/downloads/docx.svg" height="60">
+    </a>
+</p>
+
 # 数据结构课程设计之最小生成树的应用：室内布线
 
 ## 1 问题内容与目的要求
